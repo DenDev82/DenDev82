@@ -63,8 +63,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenDev82&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
-> 💡 **Tip:** These use free services ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), [activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)) — just replace `DenDev82` and pick a `theme` (`dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, etc.) to match your profile's vibe.
-
 ---
 
 ### 🏅 GitHub Trophies
@@ -94,8 +92,6 @@
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
 </p>
-
-> ⚠️ **Privacy note:** Only list contact channels you're comfortable receiving unsolicited messages on. Consider a contact form or business email instead of a personal one if you get a lot of profile traffic.
 
 ---
 
